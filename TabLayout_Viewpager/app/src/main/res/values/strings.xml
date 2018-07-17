@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">TabLayout_Viewpager</string>
+
+    <string name="first_text">First Page</string>
+
+    <string name="second_text">Second Page</string>
+
+    <string name="third_text">Third Page</string>
+
+</resources>
